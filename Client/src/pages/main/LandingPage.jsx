@@ -21,7 +21,6 @@ const LandingPage = () => {
   const components = [
     <Hero key="hero" scroll={scroll} />,
     <SocialProof key="social" cardData={cardData} scroll={scroll} />,
-
     <Video key="video" video={video} scroll={scroll} />,
     <Reviews key="reviews" reviews={reviews} scroll={scroll} />,
     <Plans plansData={plansData} scroll={scroll}></Plans>,
