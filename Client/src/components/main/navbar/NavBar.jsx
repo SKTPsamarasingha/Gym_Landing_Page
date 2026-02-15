@@ -1,11 +1,11 @@
 import {
   Bars3Icon,
-  XMarkIcon,
-  ShoppingBagIcon,
-  MagnifyingGlassIcon,
   ChevronDownIcon,
+  MagnifyingGlassIcon,
+  ShoppingBagIcon,
+  XMarkIcon,
 } from "@heroicons/react/24/outline";
-import logo from "/Client/src/assets/images/RP-Logo.svg";
+import logo from "../../../assets/images/RP-Logo.svg";
 import Menu from "./Menu.jsx";
 import { useState } from "react";
 import { Link } from "react-router-dom";
