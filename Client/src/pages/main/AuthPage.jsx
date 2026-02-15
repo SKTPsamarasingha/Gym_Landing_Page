@@ -3,6 +3,7 @@ import RegistrationForm from "../../components/main/auth/RegistrationForm.jsx";
 import LoginForm from "../../components/main/auth/LoginForm.jsx";
 import RedBtn from "../../components/main/auth/RedBtn.jsx";
 
+
 const AuthPage = ({}) => {
   const [toggleWidth, setToggleWidth] = useState(false);
   const [toggleSide, setToggleSide] = useState(false);

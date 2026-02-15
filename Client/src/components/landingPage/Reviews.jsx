@@ -1,7 +1,6 @@
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
 import Review from "./Review.jsx";
 import { useEffect, useState } from "react";
-
 const Reviews = ({ reviews, scroll }) => {
   const mid = window.innerWidth < 1024 ? Math.floor(reviews.length / 2) : 0;
   const [currentIndex, setCurrentIndex] = useState(mid);

@@ -9,7 +9,6 @@ import {
   FaWhatsapp,
 } from "react-icons/fa";
 import RedBtn from "./RedBtn.jsx";
-
 const RegistrationForm = ({ toggleForms }) => {
   const handleSubmit = () => {};
   return (
@@ -21,7 +20,7 @@ const RegistrationForm = ({ toggleForms }) => {
       <h2
         className={`text-white text-[3rem] font-semibold  tracking-wide mt-15`}
       >
-        SIGN UP.
+        Sign UP.
       </h2>
 
       <form className={`mt-20 flex flex-col items-center gap-8`}>

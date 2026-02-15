@@ -20,7 +20,7 @@ const LoginForm = ({ toggleForms }) => {
       <h2
         className={`text-white text-[3rem] font-semibold  tracking-wide mt-15`}
       >
-        SIGN IN.
+        Sign In.
       </h2>
       {/*input wrapper*/}
       <form className={`mt-20 flex flex-col items-center gap-8`}>
