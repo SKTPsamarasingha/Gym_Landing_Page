@@ -1,14 +1,14 @@
-import blair_before from "/src/assets/images/socialProof/blair-agan-before.jpg";
-import blair_after from "/src/assets/images/socialProof/blair-agan-after.jpg";
+import blair_before from "../assets/images/SocialProof/blair-agan-before.jpg";
+import blair_after from "../assets/images/SocialProof/blair-agan-after.jpg";
 
-import michael_before from "/src/assets/images/socialProof/michael_morrissey-before.jpg";
-import michael_after from "/src/assets/images/socialProof/michael_morrissey-after.jpg";
+import michael_before from "../assets/images/socialProof/michael_morrissey-before.jpg";
+import michael_after from "../assets/images/socialProof/michael_morrissey-after.jpg";
 
-import molly_before from "/src/assets/images/socialProof/molly-eledge-before.jpg";
-import molly_after from "/src/assets/images/socialProof/molly-eledge-after.jpg";
+import molly_before from "../assets/images/socialProof/molly-eledge-before.jpg";
+import molly_after from "../assets/images/socialProof/molly-eledge-after.jpg";
 
-import dan_before from "/src/assets/images/socialProof/dan-illi-before.jpg";
-import dan_after from "/src/assets/images/socialProof/dan-illi-after.jpg";
+import dan_before from "../assets/images/socialProof/dan-illi-before.jpg";
+import dan_after from "../assets/images/socialProof/dan-illi-after.jpg";
 
 export const quickLinks = [
   {
