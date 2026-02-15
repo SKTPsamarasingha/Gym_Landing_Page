@@ -1,5 +1,5 @@
-import small from "/src/assets/images/hero/front_s.webp";
-import large from "/src/assets/images/hero/front_l.webp";
+import small from "../assets/images/hero/front_s.webp";
+import large from "../assets/images/hero/front_l.webp";
 import { useEffect, useState } from "react";
 import RedLink from "../common/RedLink.jsx";
 
