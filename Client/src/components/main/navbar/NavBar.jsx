@@ -7,7 +7,7 @@ import {
 } from '@heroicons/react/24/outline';
 import logo from '/src/assets/images/RP-Logo.svg'
 import Menu from "./Menu.jsx";
-import {useEffect, useState} from "react";
+import { useState} from "react";
 import {Link} from "react-router-dom";
 import SearchBar from "./SearchBar.jsx";
 import NavDropdown from "./NavDropdown.jsx";
